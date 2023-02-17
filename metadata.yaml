@@ -1,0 +1,59 @@
+_repo: The-Piccinino-Volume-2-of-2-The-last-of-Aldinis_69840
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Cortazzo, Oreste
+    birthdate: 1836
+    deathdate: 1912
+    gutenberg_agent_id: '52448'
+    url: http://www.gutenberg.org/2009/agents/52448
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Oreste_Cortazzo
+    - https://en.wikipedia.org/wiki/Oreste_Cortazzo
+  translator:
+    agent_name: Ives, George Burnham
+    aliases:
+    - Ives, George B.
+    - Yves, George Burnham
+    - Ives, G. Burnham
+    birthdate: 1856
+    deathdate: 1930
+    gutenberg_agent_id: '9437'
+    url: http://www.gutenberg.org/2009/agents/9437
+    wikipedia: https://en.wikipedia.org/wiki/George_Burnham_Ives
+creator:
+  author:
+    agent_name: Sand, George
+    aliases:
+    - Dupin, Amandine-Aurore-Lucile
+    - Dudevant, Amandine-Aurore-Lucile
+    - Dupin, Armandine Aurore Lucille
+    birthdate: 1804
+    deathdate: 1876
+    gutenberg_agent_id: '851'
+    url: http://www.gutenberg.org/2009/agents/851
+    wikipedia:
+    - https://en.wikipedia.org/wiki/George_Sand
+    - https://fr.wikipedia.org/wiki/George_Sand
+description: ''
+gutenberg_issued: '2023-01-19'
+identifiers:
+  gutenberg: '69840'
+language: en
+pgterms:marc904: http://catalog.hathitrust.org/Record/006130562
+pgterms:marc905: 20220625095950sand
+pgterms:marc906: '1900'
+pgterms:marc907: US
+production_note: Dagny and Laura Natal Rodrigues (Images generously made available
+  by Hathi Trust Digital Library.)
+publication_note: 'United States: G. Barrie & son,1900.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: The masterpieces of George Sand, volume 8
+subjects:
+- !lcsh 'French fiction -- Translations into English'
+- !lcc 'PQ'
+- GITenberg
+title: The Piccinino, Volume 2 (of 2); The last of Aldinis
+url: http://www.gutenberg.org/ebooks/69840
