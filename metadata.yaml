@@ -21,6 +21,9 @@ contributor:
     gutenberg_agent_id: '9437'
     url: http://www.gutenberg.org/2009/agents/9437
     wikipedia: https://en.wikipedia.org/wiki/George_Burnham_Ives
+covers:
+- cover_type: archival
+  image_path: 69840-h/images/cover.jpg
 creator:
   author:
     agent_name: Sand, George
@@ -36,6 +39,8 @@ creator:
     - https://en.wikipedia.org/wiki/George_Sand
     - https://fr.wikipedia.org/wiki/George_Sand
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69840#The-Piccinino-Volume-2-of-2-The-last-of-Aldinis
 gutenberg_issued: '2023-01-19'
 identifiers:
   gutenberg: '69840'
